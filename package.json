@@ -1,0 +1,27 @@
+{
+  "name": "tx-machine",
+  "version": "0.0.1",
+  "description": "I crunch txs, arrrrgh 👾",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gvko/tx-machine.git"
+  },
+  "keywords": [
+    "tx",
+    "txs",
+    "crunch",
+    "multi-wallet",
+    "wallet",
+    "wallet-manager"
+  ],
+  "author": "Galin Kostov <dev@galin.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvko/tx-machine/issues"
+  },
+  "homepage": "https://github.com/gvko/tx-machine#readme"
+}
